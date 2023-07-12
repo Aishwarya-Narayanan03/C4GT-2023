@@ -17,5 +17,4 @@ Milestone 5: To obtain input and identify areas for improvement, do beta testing
 Milestone 6: Release the SDK to the developer community and make it widely available for use.
 
 Thanking Note :
-
 Thank you so much to all of the mentors and the entire community for allowing me to work on such an interesting project. I will do all in my power to add value to this community. Thank you for listening to all of my concerns while developing this proposal, and thank you in advance for the mentorship and direction that all of you bring to help us grow and improve our talents. I'm looking forward to the exciting road ahead and am eager to learn new things.
