@@ -5,7 +5,7 @@ Code for GovTech(C4GT) is an annual summer coding program that aims to cultivate
 
 The main objective of the project is to create an open-source project, that serves as a platform for widely accepted Health Claims data exchange specifications as a public good that can be accepted. It should be open to supporting technology and vendor neutrality, and adaptable to changes and innovations. 
 
-Milestones :
+## Milestones :
 Milestone 1: Create the overall system design for the SDK, taking scalability, interoperability, and security into account.
 
 Milestone 2: Consider the relevant data pieces, entities, and relationships while creating the data model and schema for health claim exchange.
